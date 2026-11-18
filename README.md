@@ -1,2 +1,3 @@
-# saas-landing-emailauto-fa-1405
-لندینگ SaaS اتوماسیون ایمیل فارسی
+# ایمیل‌یار SaaS Landing
+
+https://beig-rules.github.io/saas-landing-emailauto-fa-1405/
